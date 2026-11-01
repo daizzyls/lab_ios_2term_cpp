@@ -1,0 +1,37 @@
+# Visual Studio temporary files
+.vs/
+
+# Build output
+bin/
+obj/
+out/
+build/
+Debug/
+Release/
+x64/
+x86/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual C++ cache files
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.db
+*.VC.opendb
+*.ipch
+*.tlog
+*.obj
+*.exe
+*.ilk
+*.pdb
+*.idb
+*.pch
+*.res
+*.lastbuildstate
