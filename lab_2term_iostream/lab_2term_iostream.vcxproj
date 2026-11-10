@@ -143,7 +143,7 @@
     <ClCompile Include="lab_2term_iostream.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="headet.hpp" />
+    <ClInclude Include="header.hpp" />
     <ClInclude Include="structs.hpp" />
   </ItemGroup>
   <ItemGroup>
